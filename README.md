@@ -1,0 +1,1 @@
+SSR Blazor Web App
